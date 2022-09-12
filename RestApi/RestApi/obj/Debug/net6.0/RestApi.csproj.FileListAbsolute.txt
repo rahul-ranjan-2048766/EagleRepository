@@ -1,0 +1,303 @@
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\appsettings.json
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\RestApi.exe
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\RestApi.deps.json
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\RestApi.runtimeconfig.json
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\RestApi.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\RestApi.pdb
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\DnsClient.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\obj\Debug\net6.0\RestApi.csproj.AssemblyReference.cache
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\obj\Debug\net6.0\RestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\obj\Debug\net6.0\RestApi.AssemblyInfoInputs.cache
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\obj\Debug\net6.0\RestApi.AssemblyInfo.cs
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\obj\Debug\net6.0\RestApi.csproj.CoreCompileInputs.cache
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\obj\Debug\net6.0\RestApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\obj\Debug\net6.0\RestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\obj\Debug\net6.0\scopedcss\bundle\RestApi.styles.css
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\obj\Debug\net6.0\RestApi.csproj.CopyComplete
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\obj\Debug\net6.0\RestApi.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\obj\Debug\net6.0\refint\RestApi.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\obj\Debug\net6.0\RestApi.pdb
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\obj\Debug\net6.0\RestApi.genruntimeconfig.cache
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\obj\Debug\net6.0\ref\RestApi.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Elasticsearch.Net.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\OpenTelemetry.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\OpenTelemetry.Api.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Serilog.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Serilog.Enrichers.Environment.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Serilog.Exceptions.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Serilog.Formatting.Elasticsearch.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Serilog.Sinks.Elasticsearch.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\libman.json
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\TraceReloggerLib.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Dia2Lib.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\OSExtensions.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\C5.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Microsoft.Diagnostics.NETCore.Client.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Microsoft.DiaSymReader.PortablePdb.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Common.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Common.Abstractions.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Common.Http.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Discovery.Abstractions.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Extensions.Logging.Abstractions.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Extensions.Logging.DynamicLogger.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Management.Abstractions.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Management.EndpointBase.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Management.EndpointCore.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Management.OpenTelemetryBase.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Wavefront.SDK.CSharp.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\OpenTelemetry.Contrib.Instrumentation.EntityFrameworkCore.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\OpenTelemetry.Exporter.Jaeger.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\OpenTelemetry.Exporter.Zipkin.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Prometheus.NetCore.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Prometheus.NetStandard.dll
+C:\Users\2048766\source\angular-websites\RestApi\RestApi\bin\Debug\net6.0\Prometheus.AspNetCore.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\libman.json
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\TraceReloggerLib.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Dia2Lib.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\OSExtensions.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\appsettings.json
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\RestApi.exe
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\RestApi.deps.json
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\RestApi.runtimeconfig.json
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\RestApi.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\RestApi.pdb
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\C5.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\DnsClient.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Elasticsearch.Net.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Microsoft.Diagnostics.NETCore.Client.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Microsoft.DiaSymReader.PortablePdb.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\OpenTelemetry.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\OpenTelemetry.Api.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\OpenTelemetry.Contrib.Instrumentation.EntityFrameworkCore.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\OpenTelemetry.Exporter.Jaeger.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\OpenTelemetry.Exporter.Zipkin.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Prometheus.NetCore.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Prometheus.NetStandard.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Prometheus.AspNetCore.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Serilog.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Serilog.Enrichers.Environment.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Serilog.Exceptions.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Serilog.Formatting.Elasticsearch.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Serilog.Sinks.Elasticsearch.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Common.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Common.Abstractions.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Common.Http.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Discovery.Abstractions.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Extensions.Logging.Abstractions.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Extensions.Logging.DynamicLogger.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Management.Abstractions.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Management.EndpointBase.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Management.EndpointCore.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Management.OpenTelemetryBase.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\Wavefront.SDK.CSharp.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\obj\Debug\net6.0\RestApi.csproj.AssemblyReference.cache
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\obj\Debug\net6.0\RestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\obj\Debug\net6.0\RestApi.AssemblyInfoInputs.cache
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\obj\Debug\net6.0\RestApi.AssemblyInfo.cs
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\obj\Debug\net6.0\RestApi.csproj.CoreCompileInputs.cache
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\obj\Debug\net6.0\RestApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\obj\Debug\net6.0\RestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\obj\Debug\net6.0\scopedcss\bundle\RestApi.styles.css
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\obj\Debug\net6.0\RestApi.csproj.CopyComplete
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\obj\Debug\net6.0\RestApi.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\obj\Debug\net6.0\refint\RestApi.dll
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\obj\Debug\net6.0\RestApi.pdb
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\obj\Debug\net6.0\RestApi.genruntimeconfig.cache
+C:\Users\2048766\source\angular-websites\HackFSE Backend\RestApi\RestApi\obj\Debug\net6.0\ref\RestApi.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\appsettings.json
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\libman.json
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\TraceReloggerLib.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Dia2Lib.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\OSExtensions.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\RestApi.exe
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\RestApi.deps.json
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\RestApi.runtimeconfig.json
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\RestApi.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\RestApi.pdb
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\C5.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\DnsClient.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Elasticsearch.Net.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Microsoft.Diagnostics.NETCore.Client.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Microsoft.DiaSymReader.PortablePdb.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\OpenTelemetry.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\OpenTelemetry.Api.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\OpenTelemetry.Contrib.Instrumentation.EntityFrameworkCore.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\OpenTelemetry.Exporter.Jaeger.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\OpenTelemetry.Exporter.Zipkin.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Prometheus.NetCore.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Prometheus.NetStandard.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Prometheus.AspNetCore.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Serilog.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Serilog.Enrichers.Environment.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Serilog.Exceptions.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Serilog.Formatting.Elasticsearch.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Serilog.Sinks.Elasticsearch.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Common.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Common.Abstractions.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Common.Http.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Discovery.Abstractions.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Extensions.Logging.Abstractions.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Extensions.Logging.DynamicLogger.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Management.Abstractions.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Management.EndpointBase.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Management.EndpointCore.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Steeltoe.Management.OpenTelemetryBase.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\Wavefront.SDK.CSharp.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\obj\Debug\net6.0\RestApi.csproj.AssemblyReference.cache
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\obj\Debug\net6.0\RestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\obj\Debug\net6.0\RestApi.AssemblyInfoInputs.cache
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\obj\Debug\net6.0\RestApi.AssemblyInfo.cs
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\obj\Debug\net6.0\RestApi.csproj.CoreCompileInputs.cache
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\obj\Debug\net6.0\RestApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\obj\Debug\net6.0\RestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\obj\Debug\net6.0\scopedcss\bundle\RestApi.styles.css
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\obj\Debug\net6.0\RestApi.csproj.CopyComplete
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\obj\Debug\net6.0\RestApi.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\obj\Debug\net6.0\refint\RestApi.dll
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\obj\Debug\net6.0\RestApi.pdb
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\obj\Debug\net6.0\RestApi.genruntimeconfig.cache
+C:\Users\2048766\source\repos\Digital-Honor-Case-Study\RestApi\RestApi\obj\Debug\net6.0\ref\RestApi.dll

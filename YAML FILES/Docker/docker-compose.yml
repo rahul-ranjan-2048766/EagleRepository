@@ -1,0 +1,132 @@
+version: '3.6'
+services:
+  Elasticsearch:
+    image: elasticsearch:7.16.2
+    container_name: elasticsearch
+    restart: always
+    volumes:
+      - elastic_data:/usr/share/elasticsearch/data/
+    environment:
+      ES_JAVA_OPTS: "-Xmx256m -Xms256m"
+      discovery.type: single-node
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+    networks:
+      - elk
+
+  Logstash:
+    image: logstash:7.16.2
+    container_name: logstash
+    restart: always
+    volumes:
+      - ./logstash/:/logstash_dir
+    depends_on:
+      - Elasticsearch
+    environment:
+      LS_JAVA_OPTS: "-Xmx256m -Xms256m"
+    ports:
+      - "9600:9600"
+    networks:
+      - elk
+
+  Kibana:
+    image: kibana:7.16.2
+    container_name: kibana
+    restart: always
+    ports:
+      - "5601:5601"
+    environment:
+      - ELASTICSEARCH_URL=http://elasticsearch:9200
+    depends_on:
+      - Elasticsearch
+    networks:
+      - elk
+
+  Jaeger:
+    image: jaegertracing/all-in-one
+    container_name: jaeger 
+    restart: always 
+    ports:
+      - "6831:6831"
+      - "6832:6832"
+      - "14250:14250"
+      - "14268:14268"
+      - "16686:16686"
+      - "5778:5778"
+    networks:
+      - elk 
+    
+  Zipkin:
+    image: openzipkin/zipkin 
+    container_name: zipkin 
+    restart: always 
+    ports:
+      - "9411:9411"
+    networks:
+      - elk
+
+  MongoDB:
+    image: mongo
+    container_name: mongo
+    restart: always 
+    ports:
+      - "27017:27017"
+    networks:
+      - elk 
+
+  RestApi:
+    image: sparrow46world/restapi
+    container_name: restapi
+    restart: always
+    depends_on:
+      - Elasticsearch
+      - Jaeger
+      - Zipkin
+      - MongoDB
+    environment:
+      - ELKHost=elasticsearch
+      - JaegerHost=jaeger
+      - ZipkinHost=zipkin
+      - MongoHost=mongo
+    ports:
+      - "4000:80"
+    networks:
+      - elk
+
+  RestApiForTweets:
+    image: sparrow46world/restapifortweets 
+    container_name: restapifortweets
+    restart: always 
+    depends_on:
+      - Elasticsearch
+      - Jaeger
+      - Zipkin
+      - MongoDB
+    environment:
+      - ELKHost=elasticsearch
+      - JaegerHost=jaeger
+      - ZipkinHost=zipkin
+      - MongoHost=mongo
+    ports:
+      - "6464:80"
+    networks:
+      - elk 
+
+  TweetApp:
+    image: sparrow46world/tweetapp
+    container_name: tweetapp
+    restart: always
+    depends_on:
+      - RestApi
+      - RestApiForTweets
+    ports:
+      - "4646:80"
+    networks:
+      - elk
+
+volumes:
+  elastic_data: {}
+
+networks:
+  elk:

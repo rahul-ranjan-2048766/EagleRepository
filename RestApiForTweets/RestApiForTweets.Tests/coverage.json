@@ -1,0 +1,907 @@
+{
+  "RestApiForTweets.dll": {
+    "C:\\Users\\2048766\\source\\angular-websites\\RestApiForTweets\\RestApiForTweets\\Program.cs": {
+      "Program": {
+        "System.Void Program::<Main>$(System.String[])": {
+          "Lines": {
+            "14": 0,
+            "16": 0,
+            "17": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "52": 0,
+            "53": 0,
+            "55": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0
+          },
+          "Branches": [
+            {
+              "Line": 79,
+              "Offset": 20,
+              "EndOffset": 22,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 79,
+              "Offset": 20,
+              "EndOffset": 26,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 82,
+              "Offset": 12,
+              "EndOffset": 14,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 82,
+              "Offset": 22,
+              "EndOffset": 24,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 82,
+              "Offset": 12,
+              "EndOffset": 42,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 82,
+              "Offset": 22,
+              "EndOffset": 42,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 82,
+              "Offset": 45,
+              "EndOffset": 47,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 82,
+              "Offset": 45,
+              "EndOffset": 64,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void Program::<<Main>$>g__ConfigureLogs|0_5()": {
+          "Lines": {
+            "111": 0,
+            "112": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0
+          },
+          "Branches": []
+        },
+        "Serilog.Sinks.Elasticsearch.ElasticsearchSinkOptions Program::<<Main>$>g__ConfigureELS|0_6(Microsoft.Extensions.Configuration.IConfigurationRoot,System.String)": {
+          "Lines": {
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0
+          },
+          "Branches": [
+            {
+              "Line": 129,
+              "Offset": 52,
+              "EndOffset": 54,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 129,
+              "Offset": 52,
+              "EndOffset": 58,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 129,
+              "Offset": 85,
+              "EndOffset": 87,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 129,
+              "Offset": 85,
+              "EndOffset": 90,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\2048766\\source\\angular-websites\\RestApiForTweets\\RestApiForTweets\\Services\\CommentService.cs": {
+      "RestApiForTweets.Services.CommentService": {
+        "System.Void RestApiForTweets.Services.CommentService::Add(RestApiForTweets.Models.Comment)": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.Void RestApiForTweets.Services.CommentService::DeleteAll()": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.Void RestApiForTweets.Services.CommentService::DeleteById(System.String)": {
+          "Lines": {
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<RestApiForTweets.Models.Comment> RestApiForTweets.Services.CommentService::GetAll()": {
+          "Lines": {
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0
+          },
+          "Branches": []
+        },
+        "RestApiForTweets.Models.Comment RestApiForTweets.Services.CommentService::GetById(System.String)": {
+          "Lines": {
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0
+          },
+          "Branches": [
+            {
+              "Line": 43,
+              "Offset": 84,
+              "EndOffset": 86,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 43,
+              "Offset": 84,
+              "EndOffset": 92,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void RestApiForTweets.Services.CommentService::Update(RestApiForTweets.Models.Comment)": {
+          "Lines": {
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "58": 0,
+            "59": 0
+          },
+          "Branches": []
+        },
+        "System.Void RestApiForTweets.Services.CommentService::.ctor(Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\2048766\\source\\angular-websites\\RestApiForTweets\\RestApiForTweets\\Services\\TweetService.cs": {
+      "RestApiForTweets.Services.TweetService": {
+        "System.Void RestApiForTweets.Services.TweetService::Add(RestApiForTweets.Models.Tweet)": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.Void RestApiForTweets.Services.TweetService::DeleteAll()": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.Void RestApiForTweets.Services.TweetService::DeleteById(System.String)": {
+          "Lines": {
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<RestApiForTweets.Models.Tweet> RestApiForTweets.Services.TweetService::GetAll()": {
+          "Lines": {
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0
+          },
+          "Branches": []
+        },
+        "RestApiForTweets.Models.Tweet RestApiForTweets.Services.TweetService::GetById(System.String)": {
+          "Lines": {
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0
+          },
+          "Branches": [
+            {
+              "Line": 43,
+              "Offset": 84,
+              "EndOffset": 86,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 43,
+              "Offset": 84,
+              "EndOffset": 92,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void RestApiForTweets.Services.TweetService::Update(RestApiForTweets.Models.Tweet)": {
+          "Lines": {
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "57": 0,
+            "58": 0
+          },
+          "Branches": []
+        },
+        "System.Void RestApiForTweets.Services.TweetService::.ctor(Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\2048766\\source\\angular-websites\\RestApiForTweets\\RestApiForTweets\\Models\\Comment.cs": {
+      "RestApiForTweets.Models.Comment": {
+        "System.String RestApiForTweets.Models.Comment::get_Id()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String RestApiForTweets.Models.Comment::get_Sender()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.String RestApiForTweets.Models.Comment::get_Message()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.String RestApiForTweets.Models.Comment::get_Tag()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.String RestApiForTweets.Models.Comment::get_Tweetid()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime RestApiForTweets.Models.Comment::get_DateTime()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\2048766\\source\\angular-websites\\RestApiForTweets\\RestApiForTweets\\Models\\Tweet.cs": {
+      "RestApiForTweets.Models.Tweet": {
+        "System.String RestApiForTweets.Models.Tweet::get_Id()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String RestApiForTweets.Models.Tweet::get_Sender()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.String RestApiForTweets.Models.Tweet::get_Tag()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.String RestApiForTweets.Models.Tweet::get_Message()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime RestApiForTweets.Models.Tweet::get_DateTime()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\2048766\\source\\angular-websites\\RestApiForTweets\\RestApiForTweets\\Models\\TweetAndComments.cs": {
+      "RestApiForTweets.Models.TweetAndComments": {
+        "System.String RestApiForTweets.Models.TweetAndComments::get_Id()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String RestApiForTweets.Models.TweetAndComments::get_Sender()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.String RestApiForTweets.Models.TweetAndComments::get_Message()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.String RestApiForTweets.Models.TweetAndComments::get_Tag()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime RestApiForTweets.Models.TweetAndComments::get_DateTime()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<RestApiForTweets.Models.Comment> RestApiForTweets.Models.TweetAndComments::get_Comments()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\2048766\\source\\angular-websites\\RestApiForTweets\\RestApiForTweets\\Controllers\\CommentController.cs": {
+      "RestApiForTweets.Controllers.CommentController": {
+        "Microsoft.AspNetCore.Mvc.IActionResult RestApiForTweets.Controllers.CommentController::Add(RestApiForTweets.Models.Comment)": {
+          "Lines": {
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "27": 0,
+            "29": 0,
+            "31": 0,
+            "32": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult RestApiForTweets.Controllers.CommentController::DeleteAll()": {
+          "Lines": {
+            "36": 0,
+            "37": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult RestApiForTweets.Controllers.CommentController::DeleteById(System.String)": {
+          "Lines": {
+            "45": 0,
+            "46": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult RestApiForTweets.Controllers.CommentController::GetById(System.String)": {
+          "Lines": {
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult RestApiForTweets.Controllers.CommentController::GetAll()": {
+          "Lines": {
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult RestApiForTweets.Controllers.CommentController::Update(RestApiForTweets.Models.Comment)": {
+          "Lines": {
+            "68": 0,
+            "69": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0
+          },
+          "Branches": []
+        },
+        "System.Void RestApiForTweets.Controllers.CommentController::.ctor(RestApiForTweets.Services.ICommentService,Microsoft.Extensions.Logging.ILogger`1<RestApiForTweets.Controllers.CommentController>)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\2048766\\source\\angular-websites\\RestApiForTweets\\RestApiForTweets\\Controllers\\PersonalTweetsController.cs": {
+      "RestApiForTweets.Controllers.PersonalTweetsController": {
+        "Microsoft.AspNetCore.Mvc.IActionResult RestApiForTweets.Controllers.PersonalTweetsController::Get(System.String)": {
+          "Lines": {
+            "25": 0,
+            "26": 0,
+            "28": 0,
+            "30": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "45": 0,
+            "47": 0,
+            "48": 0
+          },
+          "Branches": [
+            {
+              "Line": 32,
+              "Offset": 243,
+              "EndOffset": 75,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 243,
+              "EndOffset": 248,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void RestApiForTweets.Controllers.PersonalTweetsController::.ctor(RestApiForTweets.Services.ITweetService,RestApiForTweets.Services.ICommentService,Microsoft.Extensions.Logging.ILogger`1<RestApiForTweets.Controllers.PersonalTweetsController>)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\2048766\\source\\angular-websites\\RestApiForTweets\\RestApiForTweets\\Controllers\\TweetAndCommentsController.cs": {
+      "RestApiForTweets.Controllers.TweetAndCommentsController": {
+        "Microsoft.AspNetCore.Mvc.IActionResult RestApiForTweets.Controllers.TweetAndCommentsController::GetTweetsAndComments()": {
+          "Lines": {
+            "25": 0,
+            "26": 0,
+            "28": 0,
+            "30": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "45": 0,
+            "46": 0
+          },
+          "Branches": [
+            {
+              "Line": 32,
+              "Offset": 246,
+              "EndOffset": 80,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 246,
+              "EndOffset": 251,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void RestApiForTweets.Controllers.TweetAndCommentsController::.ctor(RestApiForTweets.Services.ITweetService,RestApiForTweets.Services.ICommentService,Microsoft.Extensions.Logging.ILogger`1<RestApiForTweets.Controllers.TweetAndCommentsController>)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\2048766\\source\\angular-websites\\RestApiForTweets\\RestApiForTweets\\Controllers\\TweetController.cs": {
+      "RestApiForTweets.Controllers.TweetController": {
+        "Microsoft.AspNetCore.Mvc.IActionResult RestApiForTweets.Controllers.TweetController::Add(RestApiForTweets.Models.Tweet)": {
+          "Lines": {
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "28": 0,
+            "30": 0,
+            "31": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult RestApiForTweets.Controllers.TweetController::DeleteAll()": {
+          "Lines": {
+            "35": 0,
+            "36": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult RestApiForTweets.Controllers.TweetController::DeleteById(System.String)": {
+          "Lines": {
+            "44": 0,
+            "45": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult RestApiForTweets.Controllers.TweetController::GetById(System.String)": {
+          "Lines": {
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult RestApiForTweets.Controllers.TweetController::GetAll()": {
+          "Lines": {
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult RestApiForTweets.Controllers.TweetController::Update(RestApiForTweets.Models.Tweet)": {
+          "Lines": {
+            "67": 0,
+            "68": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0
+          },
+          "Branches": []
+        },
+        "System.Void RestApiForTweets.Controllers.TweetController::.ctor(RestApiForTweets.Services.ITweetService,Microsoft.Extensions.Logging.ILogger`1<RestApiForTweets.Controllers.TweetController>)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "RestApiForTweets.Tests.dll": {
+    "C:\\Users\\2048766\\.nuget\\packages\\microsoft.net.test.sdk\\16.11.0\\build\\netcoreapp2.1\\Microsoft.NET.Test.Sdk.Program.cs": {
+      "AutoGeneratedProgram": {
+        "System.Void AutoGeneratedProgram::Main(System.String[])": {
+          "Lines": {
+            "4": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\2048766\\source\\angular-websites\\RestApiForTweets\\RestApiForTweets.Tests\\UnitTests.cs": {
+      "RestApiForTweets.Tests.UnitTests": {
+        "System.Void RestApiForTweets.Tests.UnitTests::PositiveTest_GetComments()": {
+          "Lines": {
+            "43": 1,
+            "44": 1,
+            "45": 1,
+            "47": 1,
+            "49": 1,
+            "50": 1,
+            "52": 1,
+            "54": 1,
+            "55": 1
+          },
+          "Branches": []
+        },
+        "System.Void RestApiForTweets.Tests.UnitTests::PositiveTest_GetTweets()": {
+          "Lines": {
+            "62": 1,
+            "63": 1,
+            "64": 1,
+            "66": 1,
+            "68": 1,
+            "69": 1,
+            "71": 1,
+            "73": 1,
+            "74": 1
+          },
+          "Branches": []
+        },
+        "System.Void RestApiForTweets.Tests.UnitTests::PositiveTest_GetAllComments()": {
+          "Lines": {
+            "81": 1,
+            "82": 1,
+            "83": 1,
+            "85": 1,
+            "87": 1,
+            "88": 1,
+            "90": 1,
+            "91": 1
+          },
+          "Branches": []
+        },
+        "System.Void RestApiForTweets.Tests.UnitTests::PositiveTest_GetAllTweets()": {
+          "Lines": {
+            "98": 1,
+            "99": 1,
+            "100": 1,
+            "102": 1,
+            "104": 1,
+            "105": 1,
+            "107": 1,
+            "108": 1
+          },
+          "Branches": []
+        },
+        "System.Void RestApiForTweets.Tests.UnitTests::GetPersonalTweetsTest(System.String)": {
+          "Lines": {
+            "117": 2,
+            "118": 2,
+            "119": 2,
+            "121": 2,
+            "122": 2,
+            "124": 2,
+            "126": 2,
+            "127": 2,
+            "129": 2,
+            "130": 2
+          },
+          "Branches": []
+        },
+        "System.Void RestApiForTweets.Tests.UnitTests::GetTweetsAndComments()": {
+          "Lines": {
+            "137": 1,
+            "138": 1,
+            "139": 1,
+            "141": 1,
+            "142": 1,
+            "144": 1,
+            "146": 1,
+            "147": 1,
+            "149": 1,
+            "150": 1
+          },
+          "Branches": []
+        },
+        "System.Void RestApiForTweets.Tests.UnitTests::.ctor()": {
+          "Lines": {
+            "22": 7,
+            "23": 7,
+            "24": 7,
+            "25": 7,
+            "26": 7,
+            "27": 7,
+            "28": 7,
+            "30": 7,
+            "31": 7,
+            "32": 7,
+            "33": 7,
+            "34": 7,
+            "35": 7,
+            "36": 7
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

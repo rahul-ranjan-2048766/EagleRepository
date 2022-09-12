@@ -1,0 +1,149 @@
+<html>
+    <head>
+        <title>User Login</title>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width; initial-scale=1.0"/>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    </head>
+    <body>
+<div class="position-relative">
+        <div class="p-lg-2"></div>
+
+        <div class="alert alert-primary alert-dismissible show fade alert-div col-lg-8 m-auto" role="alert" *ngIf="message">
+
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-cloud-drizzle-fill" viewBox="0 0 16 16"><path d="M4.158 12.025a.5.5 0 0 1 .316.633l-.5 1.5a.5.5 0 0 1-.948-.316l.5-1.5a.5.5 0 0 1 .632-.317zm6 0a.5.5 0 0 1 .316.633l-.5 1.5a.5.5 0 0 1-.948-.316l.5-1.5a.5.5 0 0 1 .632-.317zm-3.5 1.5a.5.5 0 0 1 .316.633l-.5 1.5a.5.5 0 0 1-.948-.316l.5-1.5a.5.5 0 0 1 .632-.317zm6 0a.5.5 0 0 1 .316.633l-.5 1.5a.5.5 0 1 1-.948-.316l.5-1.5a.5.5 0 0 1 .632-.317zm.747-8.498a5.001 5.001 0 0 0-9.499-1.004A3.5 3.5 0 1 0 3.5 11H13a3 3 0 0 0 .405-5.973z"/></svg>
+
+            &nbsp;
+            {{ message }}
+
+            <button (click)="removeMessage()" type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+
+
+        </div>
+
+        <div class="p-lg-2"></div>
+        
+        <div class="container-div col-lg-10 m-auto p-0 row">
+
+            <div class="col-lg-7 m-0 p-0 position-relative container-block">
+
+                <!--Circles & Waves-->
+                <div class="circle-1 position-absolute top-0 end-0"></div>
+
+                <div class="circle-2 position-absolute top-0 end-0">
+                    
+                    <div class="wave-cover">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 500"><path fill="#ffffff80" fill-opacity="0.4" d="M0,192L48,186.7C96,181,192,171,288,149.3C384,128,480,96,576,96C672,96,768,128,864,154.7C960,181,1056,203,1152,186.7C1248,171,1344,117,1392,90.7L1440,64L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
+                    </div>           
+                    
+                    <div class="wave-cover">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 500"><path fill="#ffffff80" fill-opacity="0.4" d="M0,0L48,37.3C96,75,192,149,288,192C384,235,480,245,576,234.7C672,224,768,192,864,202.7C960,213,1056,267,1152,288C1248,309,1344,299,1392,293.3L1440,288L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
+                    </div>
+
+                </div>
+
+                <!--Slider-->
+                <div class="slider d-flex align-items-center justify-content-around">
+
+                    <div class="col-lg-8">
+
+                        <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="#ffffff" class="bi bi-strava strava" viewBox="0 0 16 16"><path d="M6.731 0 2 9.125h2.788L6.73 5.497l1.93 3.628h2.766L6.731 0zm4.694 9.125-1.372 2.756L8.66 9.125H6.547L10.053 16l3.484-6.875h-2.112z"/></svg>
+
+                        <h1 class="h1-tag">User Login</h1>
+
+                        <div class="p-2"></div>
+
+                        <p class="p-tag">Please enter your user credentials and login to get to your dashboard....</p>
+
+                        <div class="p-4"></div>
+
+                        <img [src]="bunny" class="img-fluid bunny"/>
+
+                    </div>
+                </div>
+
+            </div>
+            <form class="col-lg-5 m-0 p-5 login-block" [formGroup]="formValue" (submit)="userLogin()">
+
+                <h1 class="h1-login">Login</h1>
+                <p class="p-login">Please sign in to your account....</p>
+
+                <div class="p-3"></div>
+                <div>
+                    <label class="label-name">Username</label>
+
+                    <div class="position-relative">
+                        <input formControlName="loginId" id="loginId-id" type="text" class="input" placeholder="Your Username" required/>
+
+                        <label class="label-cover">
+
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-heart" viewBox="0 0 16 16">
+                                <path d="M9 5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Zm-9 8c0 1 1 1 1 1h10s1 0 1-1-1-4-6-4-6 3-6 4Zm13.5-8.09c1.387-1.425 4.855 1.07 0 4.277-4.854-3.207-1.387-5.702 0-4.276Z"/>
+                              </svg>
+
+                        </label>
+
+                    </div>
+                    
+                </div>                
+
+                <div class="p-3"></div>
+
+                <div>
+                    <label class="label-name">Password</label>
+
+                    <div class="position-relative">
+                        <input formControlName="password" id="password-id" type="password" class="input" placeholder="Your password" required/>
+
+                        <label class="label-cover">
+
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-key-fill" viewBox="0 0 16 16">
+                                <path d="M3.5 11.5a3.5 3.5 0 1 1 3.163-5H14L15.5 8 14 9.5l-1-1-1 1-1-1-1 1-1-1-1 1H6.663a3.5 3.5 0 0 1-3.163 2zM2.5 9a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+                              </svg>
+
+                        </label>
+                    </div>
+
+                </div>
+                
+                <div class="p-3"></div>
+
+                <div class="d-flex align-items-center justify-content-between py-2">
+                    <button class="login-btn">Login</button>
+                    <button class="signup-btn" [routerLink]="['/register']">Sign Up</button>
+                </div> 
+                
+                <div class="p-2"></div>
+
+                <div class="d-flex align-items-center justify-content-between">
+
+                    <div class="d-flex align-items-center anchor-div" [routerLink]="['/index']">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-house-heart-fill" viewBox="0 0 16 16"><path d="M7.293 1.5a1 1 0 0 1 1.414 0L11 3.793V2.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v3.293l2.354 2.353a.5.5 0 0 1-.708.707L8 2.207 1.354 8.853a.5.5 0 1 1-.708-.707L7.293 1.5Z"/><path d="m14 9.293-6-6-6 6V13.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V9.293Zm-6-.811c1.664-1.673 5.825 1.254 0 5.018-5.825-3.764-1.664-6.691 0-5.018Z"/></svg>&nbsp;
+                        <span class="anchor">Get Home</span>
+                    </div> 
+
+                </div>                              
+            
+            </form>
+
+        </div>
+        <div class="p-lg-5"></div>
+        <div class="screenSaver" *ngIf="screenSaver">
+            <div class="col-8 m-auto p-0">
+                <div class="circle-home">
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                </div>
+                <div class="p-5"></div>
+                <h1 class="loading text-center">Loading....</h1>
+            </div>
+        </div>
+    </div>
+
+    </body>
+</html>

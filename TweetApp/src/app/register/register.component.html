@@ -1,0 +1,149 @@
+<html>
+    <head>
+        <title>Admin Login</title>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width; initial-scale=1.0"/>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    </head>
+    <body>
+<div class="position-relative">
+        <div class="p-lg-2"></div>
+
+        <div class="alert alert-primary alert-box alert-dismissible fade show col-lg-8 m-auto alert-div" *ngIf="message">
+
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-cloud-drizzle-fill" viewBox="0 0 16 16"><path d="M4.158 12.025a.5.5 0 0 1 .316.633l-.5 1.5a.5.5 0 0 1-.948-.316l.5-1.5a.5.5 0 0 1 .632-.317zm6 0a.5.5 0 0 1 .316.633l-.5 1.5a.5.5 0 0 1-.948-.316l.5-1.5a.5.5 0 0 1 .632-.317zm-3.5 1.5a.5.5 0 0 1 .316.633l-.5 1.5a.5.5 0 0 1-.948-.316l.5-1.5a.5.5 0 0 1 .632-.317zm6 0a.5.5 0 0 1 .316.633l-.5 1.5a.5.5 0 1 1-.948-.316l.5-1.5a.5.5 0 0 1 .632-.317zm.747-8.498a5.001 5.001 0 0 0-9.499-1.004A3.5 3.5 0 1 0 3.5 11H13a3 3 0 0 0 .405-5.973z"/></svg>
+            
+            &nbsp;
+
+            {{ message }}
+
+            <button (click)="removeMessage()" type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+
+        </div>
+
+        <div class="p-lg-2"></div>
+
+        <div class="col-lg-10 m-auto p-0 row">
+
+            <div class="col-lg-6 m-0 p-0">
+                <div class="left-blue p-5 mt-lg-4">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" fill="currentColor" class="bi bi-tree-fill tree" viewBox="0 0 16 16"><path d="M8.416.223a.5.5 0 0 0-.832 0l-3 4.5A.5.5 0 0 0 5 5.5h.098L3.076 8.735A.5.5 0 0 0 3.5 9.5h.191l-1.638 3.276a.5.5 0 0 0 .447.724H7V16h2v-2.5h4.5a.5.5 0 0 0 .447-.724L12.31 9.5h.191a.5.5 0 0 0 .424-.765L10.902 5.5H11a.5.5 0 0 0 .416-.777l-3-4.5z"/></svg>
+
+                    <div class="p-3"></div>
+
+                    <h1 class="h1-welcome"><span>Wel</span>come <span>Dear</span>....</h1>
+                    <div class="p-3"></div>
+
+                    <p class="p-welcome">This is a platform where you can register yourselves. Please enter your details and sign in to enjoy tweeting with your friends. Your data is stored in Azure Cosmos DB (NoSQL - MongoDB)....</p>
+
+                    <div class="p-3"></div>
+
+                    <div class="position-relative ps-3">
+
+                        <button class="getback-btn" [routerLink]="['/login']">Get Back</button>
+
+                        <div class="position-absolute top-0 end-0 panel pt-1">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-arrow-left" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8z"/></svg>
+                        </div>
+
+                    </div>
+                </div>                
+                
+            </div>
+
+            <div class="col-lg-6 m-0 p-5 right-white">
+
+                <form class="ps-lg-5" [formGroup]="formValue" (submit)="saveUser()">
+
+                    <h1 class="h1-hello">Sign Up!</h1>
+                    
+                    <div class="p-3"></div>
+
+                <div class="row m-0 p-0">
+                    <div class="col-6 m-0 p-0">
+                        <div class="input-cover">
+                            <label class="label-name">First Name</label>
+                            <input formControlName="firstName" id="firstName-id" type="text" class="input" placeholder="Your username...." required/>
+                        </div>
+                    </div>
+                    <div class="col-6 m-0 p-0">
+                        <div class="input-cover">
+                            <label class="label-name">Last Name</label>
+                            <input formControlName="lastName" id="lastName-id" type="text" class="input" placeholder="Your username...." required/>
+                        </div>
+                    </div>
+                </div>
+ 
+                    <div class="p-3"></div>
+
+                    <div class="input-cover">
+                        <label class="label-name">Email</label>
+                        <input formControlName="email" required pattern="^[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,4}$" id="email-id" type="email" class="input" placeholder="Your username...." required/>
+                    </div>
+
+                    <div class="p-3"></div>
+
+                    <div class="row m-0 p-0">
+                        <div class="col-6 m-0 p-0">
+                            <div class="input-cover">
+                                <label class="label-name">Login Id</label>
+                                <input formControlName="loginId" id="login-id" type="text" class="input" placeholder="Your username...." required/>
+                            </div>
+                        </div>
+                        <div class="col-6 m-0 p-0">
+                            <div class="input-cover">
+                                <label class="label-name">Contact Number</label>
+                                <input formControlName="contactNumber" id="contactNumber-id" type="text" class="input" placeholder="Your username...." required/>
+                            </div>
+                        </div>
+                    </div>
+ 
+                    <div class="p-3"></div>
+
+                    <div class="row m-0 p-0">
+                        <div class="col-6 m-0 p-0">
+                            <div class="input-cover">
+                                <label class="label-name">Password</label>
+                                <input formControlName="password" id="password-id" type="password" class="input" placeholder="Your password...." required/>
+                            </div>
+                        </div>
+                        <div class="col-6 m-0 p-0">
+                            <div class="input-cover">
+                                <label class="label-name">Confirm Password</label>
+                                <input formControlName="confirmPassword" id="confirmPassword-id" type="password" class="input" placeholder="Your password...." required/>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="p-4"></div>
+
+                    <div>
+                        <button class="signin-btn">Sign In</button>
+                    </div>
+
+                </form>
+                
+            </div>
+
+        </div>
+
+        <div class="p-lg-4"></div>
+
+        <div class="screenSaver" *ngIf="screenSaver">
+            <div class="col-8 m-auto p-0">
+                <div class="circle-home">
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                </div>
+                <div class="p-5"></div>
+                <h1 class="loading text-center">Loading....</h1>
+            </div>
+        </div>
+    </div>
+    </body>
+</html>

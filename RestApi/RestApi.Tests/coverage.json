@@ -1,0 +1,849 @@
+{
+  "RestApi.dll": {
+    "C:\\Users\\2048766\\source\\angular-websites\\RestApi\\RestApi\\Program.cs": {
+      "Program": {
+        "System.Void Program::<Main>$(System.String[])": {
+          "Lines": {
+            "15": 0,
+            "17": 0,
+            "18": 0,
+            "22": 0,
+            "23": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "53": 0,
+            "54": 0,
+            "56": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0
+          },
+          "Branches": [
+            {
+              "Line": 80,
+              "Offset": 20,
+              "EndOffset": 22,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 80,
+              "Offset": 20,
+              "EndOffset": 26,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 83,
+              "Offset": 12,
+              "EndOffset": 14,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 83,
+              "Offset": 22,
+              "EndOffset": 24,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 83,
+              "Offset": 12,
+              "EndOffset": 42,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 83,
+              "Offset": 22,
+              "EndOffset": 42,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 83,
+              "Offset": 45,
+              "EndOffset": 47,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 83,
+              "Offset": 45,
+              "EndOffset": 64,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void Program::<<Main>$>g__ConfigureLogs|0_5()": {
+          "Lines": {
+            "112": 0,
+            "113": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0
+          },
+          "Branches": []
+        },
+        "Serilog.Sinks.Elasticsearch.ElasticsearchSinkOptions Program::<<Main>$>g__ConfigureELS|0_6(Microsoft.Extensions.Configuration.IConfigurationRoot,System.String)": {
+          "Lines": {
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0
+          },
+          "Branches": [
+            {
+              "Line": 130,
+              "Offset": 52,
+              "EndOffset": 54,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 130,
+              "Offset": 52,
+              "EndOffset": 58,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 130,
+              "Offset": 85,
+              "EndOffset": 87,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 130,
+              "Offset": 85,
+              "EndOffset": 90,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\2048766\\source\\angular-websites\\RestApi\\RestApi\\Services\\UserService.cs": {
+      "RestApi.Services.UserService": {
+        "System.Void RestApi.Services.UserService::Add(RestApi.Models.User)": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.Void RestApi.Services.UserService::DeleteAll()": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.Void RestApi.Services.UserService::DeleteById(System.String)": {
+          "Lines": {
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        },
+        "RestApi.Models.User RestApi.Services.UserService::GetById(System.String)": {
+          "Lines": {
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0
+          },
+          "Branches": [
+            {
+              "Line": 36,
+              "Offset": 84,
+              "EndOffset": 86,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 36,
+              "Offset": 84,
+              "EndOffset": 92,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Collections.Generic.List`1<RestApi.Models.User> RestApi.Services.UserService::GetUsers()": {
+          "Lines": {
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0
+          },
+          "Branches": []
+        },
+        "System.Void RestApi.Services.UserService::Update(RestApi.Models.User)": {
+          "Lines": {
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "59": 0,
+            "60": 0
+          },
+          "Branches": []
+        },
+        "System.Void RestApi.Services.UserService::.ctor(Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\2048766\\source\\angular-websites\\RestApi\\RestApi\\Models\\Response.cs": {
+      "RestApi.Models.Response": {
+        "System.String RestApi.Models.Response::get_LoginId()": {
+          "Lines": {
+            "7": 1
+          },
+          "Branches": []
+        },
+        "System.String RestApi.Models.Response::get_Token()": {
+          "Lines": {
+            "8": 1
+          },
+          "Branches": []
+        },
+        "System.DateTime RestApi.Models.Response::get_ValidFrom()": {
+          "Lines": {
+            "9": 1
+          },
+          "Branches": []
+        },
+        "System.DateTime RestApi.Models.Response::get_ValidTo()": {
+          "Lines": {
+            "10": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\2048766\\source\\angular-websites\\RestApi\\RestApi\\Models\\User.cs": {
+      "RestApi.Models.User": {
+        "System.String RestApi.Models.User::get_Id()": {
+          "Lines": {
+            "11": 52
+          },
+          "Branches": []
+        },
+        "System.String RestApi.Models.User::get_FirstName()": {
+          "Lines": {
+            "12": 60
+          },
+          "Branches": []
+        },
+        "System.String RestApi.Models.User::get_LastName()": {
+          "Lines": {
+            "13": 59
+          },
+          "Branches": []
+        },
+        "System.String RestApi.Models.User::get_Email()": {
+          "Lines": {
+            "14": 59
+          },
+          "Branches": []
+        },
+        "System.String RestApi.Models.User::get_LoginId()": {
+          "Lines": {
+            "15": 73
+          },
+          "Branches": []
+        },
+        "System.String RestApi.Models.User::get_Password()": {
+          "Lines": {
+            "16": 49
+          },
+          "Branches": []
+        },
+        "System.String RestApi.Models.User::get_ContactNumber()": {
+          "Lines": {
+            "17": 48
+          },
+          "Branches": []
+        },
+        "System.DateTime RestApi.Models.User::get_DateTime()": {
+          "Lines": {
+            "18": 48
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\2048766\\source\\angular-websites\\RestApi\\RestApi\\Models\\UserCred.cs": {
+      "RestApi.Models.UserCred": {
+        "System.String RestApi.Models.UserCred::get_LoginId()": {
+          "Lines": {
+            "5": 10
+          },
+          "Branches": []
+        },
+        "System.String RestApi.Models.UserCred::get_Password()": {
+          "Lines": {
+            "6": 3
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\2048766\\source\\angular-websites\\RestApi\\RestApi\\Helpers\\JwtAuthenticateManager.cs": {
+      "RestApi.Helpers.JwtAuthenticateManager": {
+        "RestApi.Models.Response RestApi.Helpers.JwtAuthenticateManager::Authenticate(RestApi.Models.UserCred)": {
+          "Lines": {
+            "21": 2,
+            "22": 9,
+            "23": 3,
+            "25": 1,
+            "27": 1,
+            "28": 1,
+            "29": 1,
+            "30": 1,
+            "31": 1,
+            "32": 1,
+            "33": 1,
+            "34": 1,
+            "35": 1,
+            "36": 1,
+            "38": 1,
+            "39": 1,
+            "41": 1,
+            "42": 1,
+            "43": 1,
+            "44": 1,
+            "45": 1,
+            "46": 1,
+            "47": 1,
+            "48": 2
+          },
+          "Branches": [
+            {
+              "Line": 23,
+              "Offset": 51,
+              "EndOffset": 53,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 23,
+              "Offset": 51,
+              "EndOffset": 61,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 25,
+              "Offset": 90,
+              "EndOffset": 92,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 25,
+              "Offset": 90,
+              "EndOffset": 100,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void RestApi.Helpers.JwtAuthenticateManager::.ctor(RestApi.Services.IUserService,Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "14": 2,
+            "15": 2,
+            "16": 2,
+            "17": 2,
+            "18": 2
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\2048766\\source\\angular-websites\\RestApi\\RestApi\\Controllers\\AuthenticateController.cs": {
+      "RestApi.Controllers.AuthenticateController": {
+        "Microsoft.AspNetCore.Mvc.IActionResult RestApi.Controllers.AuthenticateController::Authenticate(RestApi.Models.UserCred)": {
+          "Lines": {
+            "19": 2,
+            "20": 2,
+            "22": 2,
+            "23": 1,
+            "25": 1,
+            "26": 2
+          },
+          "Branches": [
+            {
+              "Line": 22,
+              "Offset": 20,
+              "EndOffset": 22,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 22,
+              "Offset": 20,
+              "EndOffset": 41,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void RestApi.Controllers.AuthenticateController::.ctor(RestApi.Helpers.IJwtAuthenticateManager)": {
+          "Lines": {
+            "12": 2,
+            "13": 2,
+            "14": 2,
+            "15": 2
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\2048766\\source\\angular-websites\\RestApi\\RestApi\\Controllers\\ProfileController.cs": {
+      "RestApi.Controllers.ProfileController": {
+        "Microsoft.AspNetCore.Mvc.IActionResult RestApi.Controllers.ProfileController::GetUser(System.String)": {
+          "Lines": {
+            "20": 2,
+            "21": 5,
+            "22": 2,
+            "23": 2
+          },
+          "Branches": []
+        },
+        "System.Void RestApi.Controllers.ProfileController::.ctor(RestApi.Services.IUserService)": {
+          "Lines": {
+            "13": 2,
+            "14": 2,
+            "15": 2,
+            "16": 2
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\2048766\\source\\angular-websites\\RestApi\\RestApi\\Controllers\\UserController.cs": {
+      "RestApi.Controllers.UserController": {
+        "Microsoft.AspNetCore.Mvc.IActionResult RestApi.Controllers.UserController::Add(RestApi.Models.User)": {
+          "Lines": {
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "37": 0,
+            "39": 0,
+            "40": 0
+          },
+          "Branches": [
+            {
+              "Line": 26,
+              "Offset": 59,
+              "EndOffset": 61,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 26,
+              "Offset": 59,
+              "EndOffset": 84,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 30,
+              "Offset": 131,
+              "EndOffset": 133,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 30,
+              "Offset": 131,
+              "EndOffset": 153,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult RestApi.Controllers.UserController::DeleteAll()": {
+          "Lines": {
+            "44": 0,
+            "45": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult RestApi.Controllers.UserController::Delete(System.String)": {
+          "Lines": {
+            "53": 0,
+            "54": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult RestApi.Controllers.UserController::GetById(System.String)": {
+          "Lines": {
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult RestApi.Controllers.UserController::Get()": {
+          "Lines": {
+            "69": 1,
+            "70": 1,
+            "71": 1,
+            "72": 1
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult RestApi.Controllers.UserController::Update(RestApi.Models.User)": {
+          "Lines": {
+            "76": 0,
+            "77": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "87": 0,
+            "88": 0,
+            "90": 0,
+            "91": 0,
+            "95": 0,
+            "98": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "108": 0,
+            "109": 0,
+            "111": 0,
+            "112": 0,
+            "118": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0
+          },
+          "Branches": [
+            {
+              "Line": 79,
+              "Offset": 54,
+              "EndOffset": 59,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 81,
+              "Offset": 68,
+              "EndOffset": 73,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 84,
+              "Offset": 131,
+              "EndOffset": 133,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 84,
+              "Offset": 131,
+              "EndOffset": 156,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 81,
+              "Offset": 68,
+              "EndOffset": 220,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 79,
+              "Offset": 54,
+              "EndOffset": 243,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 101,
+              "Offset": 285,
+              "EndOffset": 287,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 103,
+              "Offset": 299,
+              "EndOffset": 301,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 103,
+              "Offset": 299,
+              "EndOffset": 322,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 101,
+              "Offset": 285,
+              "EndOffset": 383,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void RestApi.Controllers.UserController::.ctor(RestApi.Services.IUserService,Microsoft.Extensions.Logging.ILogger`1<RestApi.Controllers.UserController>)": {
+          "Lines": {
+            "15": 1,
+            "16": 1,
+            "17": 1,
+            "18": 1,
+            "19": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\2048766\\source\\angular-websites\\RestApi\\RestApi\\Controllers\\UserSearchController.cs": {
+      "RestApi.Controllers.UserSearchController": {
+        "Microsoft.AspNetCore.Mvc.IActionResult RestApi.Controllers.UserSearchController::SearchUser(System.String)": {
+          "Lines": {
+            "20": 2,
+            "21": 2,
+            "22": 14,
+            "23": 14,
+            "24": 14,
+            "25": 14,
+            "27": 2,
+            "28": 2
+          },
+          "Branches": [
+            {
+              "Line": 22,
+              "Offset": 27,
+              "EndOffset": 29,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 11
+            },
+            {
+              "Line": 22,
+              "Offset": 56,
+              "EndOffset": 58,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 11
+            },
+            {
+              "Line": 22,
+              "Offset": 85,
+              "EndOffset": 87,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 11
+            },
+            {
+              "Line": 22,
+              "Offset": 27,
+              "EndOffset": 116,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 22,
+              "Offset": 56,
+              "EndOffset": 116,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 22,
+              "Offset": 85,
+              "EndOffset": 116,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void RestApi.Controllers.UserSearchController::.ctor(RestApi.Services.IUserService)": {
+          "Lines": {
+            "13": 2,
+            "14": 2,
+            "15": 2,
+            "16": 2
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

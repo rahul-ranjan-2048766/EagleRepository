@@ -1,0 +1,42 @@
+apiVersion: apps/v1 
+kind: Deployment 
+metadata: 
+  name: tweetapp
+spec:
+  strategy:
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 1
+    type: RollingUpdate 
+  selector:
+    matchLabels:
+      app: tweetapp 
+  replicas: 1
+  template:
+    metadata: 
+      labels: 
+        app: tweetapp 
+    spec: 
+      containers: 
+        - image: sparrow46world/tweetapp 
+          name: tweetapp 
+          imagePullPolicy: "IfNotPresent"
+          ports:
+            - containerPort: 80
+              protocol: TCP 
+              name: app-port 
+---
+apiVersion: v1 
+kind: Service 
+metadata: 
+  name: tweetapp
+spec:
+  ports:  
+    - port: 4646
+      targetPort: 80
+      protocol: TCP 
+      name: app-port
+  type: LoadBalancer
+  selector:
+    app: tweetapp
+    

@@ -1,0 +1,50 @@
+apiVersion: apps/v1 
+kind: Deployment 
+metadata: 
+  name: restapifortweets
+spec:
+  strategy:
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 1
+    type: RollingUpdate 
+  selector:
+    matchLabels:
+      app: restapifortweets
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: restapifortweets
+    spec:
+      containers:
+        - image: sparrow46world/restapifortweets
+          name: restapifortweets
+          imagePullPolicy: "IfNotPresent"
+          ports:
+            - containerPort: 80
+              protocol: TCP 
+              name: api-port 
+          env:
+            - name: "MongoHost" 
+              value: "mongo" 
+            - name: "JaegerHost"
+              value: "jaeger-udp"
+            - name: "ZipkinHost"
+              value: "zipkin"
+            - name: "ELKHost"
+              value: "elasticsearch"
+---
+apiVersion: v1 
+kind: Service 
+metadata:
+  name: restapifortweets
+spec:
+  ports:
+    - port: 6464
+      targetPort: 80
+      protocol: TCP
+      name: api-port
+  type: LoadBalancer 
+  selector:
+    app: restapifortweets

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "78ufUQ5f7hImL+o3ZeftNSLRYoqen3xwPw5+V4FWHDU=",
+  "Source": "RestApiForTweets",
+  "BasePath": "_content/RestApiForTweets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

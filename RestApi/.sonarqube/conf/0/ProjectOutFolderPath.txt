@@ -1,0 +1,1 @@
+C:\Users\2048766\source\angular-websites\RestApi\.sonarqube\out\0
